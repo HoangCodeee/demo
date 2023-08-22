@@ -1,0 +1,292 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(255, 255, 255);
+  }
+  .div1{
+    background: #ffd000;
+    border: 1px solid;
+    height: 50px;
+    
+    
+  }
+  .ul1{
+    margin-left: 400px;
+   
+
+  
+  }
+  .li1{
+    float: left ;
+    margin-right: 25px;
+    list-style-type: none;
+    
+    
+    
+  }
+   
+ 
+  .li2{
+    float: left ;
+    margin-right: 25px;
+    text-decoration: none;
+    list-style-type: none;
+  }
+  .li3{
+    float: left ;
+    margin-right: 25px;
+    text-decoration: none;
+    list-style-type: none;
+  }
+  .li4{
+    float: left ;
+    margin-right: 25px;
+    text-decoration: none;
+    list-style-type: none;
+  }
+  .li5{
+    float: left ;
+    margin-right: 25px;
+    list-style-type: none;
+    
+  }
+  a{
+    color: white;
+    text-decoration: none;
+  }
+  .abcd{
+    margin-top: -15px;
+     
+  }
+  .im1{
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+  .int1{
+    border-radius: 19px;
+    height: 35px;
+    width: 700px;
+    margin-left: 95px;
+    margin-top: -120px;
+    font-size: 19px;
+    margin-top: -200px;
+    border-top-right-radius: none;
+   
+  }
+  .btn0{
+    border-radius: 8px;
+    height: 38px;
+    width: 40px;
+    background-color: #00483d;
+    color: white;
+  }
+  .btn0:hover
+  {
+    background-color: #ffd000;
+    color: rgb(18, 20, 16);
+  }
+  .btn1{
+    border-radius: 6px;
+    height: 40px;
+    background-color: #00483d;
+    color: white;
+    margin-left: 400px;
+    float: right;
+    margin-top: -38px;
+    margin-right: 125px;
+
+  }
+  .btn1:hover
+  {
+    background-color: #ffd000;
+    color: rgb(18, 20, 16);
+  }
+  .div2{
+    margin-top: 20px;
+    border: 1px solid;
+    border-radius: 13px ;
+    height: 70px;
+    background-color: #07574b;
+    align-items: center;
+     
+  }
+  .ul2{
+    list-style-type: none;
+    float: right;
+    display: block;
+    color: white;
+    align-items: center;
+    
+  }
+  .li6{
+    float: left ;
+    margin-left: -1200px;
+    font-size: 25px;
+
+  }
+  .li6:hover{
+    color: #ffd000;
+  }
+  .li7{
+    float: left ;
+    margin-left: -1100px;
+    font-size: 25px;
+  }
+  .li7:hover{
+    color: #ffd000;
+  }
+  .li8{
+    float: left ;
+    margin-left: -979px;
+    font-size: 25px;
+  }
+  .li8:hover{
+    color: #ffd000;
+  }
+  .li9{
+    float: left ;
+    margin-left: -860px;
+    font-size: 25px;
+  }
+  .li9:hover{
+    color: #ffd000;
+  }
+  .li10{
+    float: left ;
+    margin-left: -735px;
+    font-size: 25px;
+  }
+  .li10:hover{
+    color: #ffd000;
+  }
+  .li101{
+    float: left ;
+    margin-left: -615px;
+    font-size: 25px;
+  }
+  .li101:hover{
+    color: #ffd000;
+  }
+  .li11{
+    float: left ;
+
+    margin-left: -500px;
+    font-size: 25px;
+  }
+  .li11:hover{
+    color: #ffd000;
+  }
+  .li12{
+    float: left ;
+    margin-left: -385px;
+    font-size: 25px;
+  }
+  .li12:hover{
+    color: #ffd000;
+  }
+  .li13{
+    float: left ;
+    margin-left: -260px;
+    font-size: 25px;
+  }
+  .li13:hover{
+    color: #ffd000;
+  }
+  .li14{
+    float: left ;
+    margin-left: -140px;
+    font-size: 25px;
+    
+  }
+  .li14:hover{
+    color: #ffd000;
+  }
+  .cart{
+    float: right;
+    list-style-type: none;
+    color: #00483d;
+    font-size: 36px;
+    margin-top: -50px;
+    margin-right: 49px;
+  }
+  .cart:hover
+  {
+     
+    color: #ffd000;
+  }
+  p{
+    
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    float: none;
+  }
+  .p1{
+      float: left;
+      margin-top: 45px;
+      margin-left: 237px;
+  }
+  .p2{
+     float: right;
+     margin-top: 45px;
+     margin-right: 1021px;
+  }
+  .p3{
+    float: right;
+    margin-top: -30px;
+    margin-right: 950px;
+    
+  }
+  .p4{
+    float: right;
+    margin-top: -30px;
+    margin-right: -170px;
+  }
+  .p5{
+    float: right;
+    margin-right: -300px;
+    margin-top: -30px;
+  }
+  .p6{
+    float: right;
+    margin-right: -530px;
+    margin-top: -30px;
+  }
+  .p7{
+    float: right;
+    margin-right: -420px;
+    margin-top: -30px;
+  }
+  .p8{
+    float: right;
+    margin-right: -650px;
+    margin-top: -30px;
+  }
+  .p9{
+    float: right;
+    margin-right: -765px;
+    margin-top: -30px;
+  }
+  .p10{
+    float: right;
+    margin-right: -880px;
+    margin-top: -30px;
+  }
+  .hh{
+    float: left;
+    height: 50px;
+    width: 25px;
+    margin-top: 120px;
+    border-radius: 5px;
+  }
+  .hh:hover{
+    background-color: #ffd000;
+  }
+  .hhh{
+    float:right;
+    height: 50px;
+    width: 25px;
+    margin-top: 120px;
+    border-radius: 5px;
+  }
+  .hhh:hover{
+    background-color: #ffd000;
+  }
